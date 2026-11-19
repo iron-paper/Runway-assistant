@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">跑道助手</string>
+    <string name="channel_recorder">录制服务</string>
+    <string name="channel_replay">回放服务</string>
+    <string name="notif_recorder_title">正在记录运动数据</string>
+    <string name="notif_recorder_text">位置、传感器与计步数据正在写入素材</string>
+    <string name="notif_replay_title">正在回放素材</string>
+    <string name="notif_replay_text">按素材时间轴注入中</string>
+</resources>

@@ -1,0 +1,800 @@
+{"t": {"utc_ms": 1763000000000, "elapsed_ns": 5000000000, "rel_ms": 0}, "type": "marker", "name": "record_start", "note": ""}
+{"t": {"utc_ms": 1763000000000, "elapsed_ns": 5000000000, "rel_ms": 0}, "type": "activity", "activity": "still", "confidence": 80}
+{"t": {"utc_ms": 1763000000000, "elapsed_ns": 5000000000, "rel_ms": 0}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 18.0, "hdop": 1.6, "is_mock": false}
+{"t": {"utc_ms": 1763000000000, "elapsed_ns": 5000000000, "rel_ms": 0}, "type": "baro", "pressure_hpa": 1013.2, "altitude_m": 12.0}
+{"t": {"utc_ms": 1763000000000, "elapsed_ns": 5000000000, "rel_ms": 0}, "type": "device", "battery_pct": 88, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000001000, "elapsed_ns": 6000000000, "rel_ms": 1000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 18.3, "hdop": 1.59, "is_mock": false}
+{"t": {"utc_ms": 1763000002000, "elapsed_ns": 7000000000, "rel_ms": 2000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 18.6, "hdop": 1.58, "is_mock": false}
+{"t": {"utc_ms": 1763000003000, "elapsed_ns": 8000000000, "rel_ms": 3000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 18.9, "hdop": 1.57, "is_mock": false}
+{"t": {"utc_ms": 1763000004000, "elapsed_ns": 9000000000, "rel_ms": 4000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 19.1, "hdop": 1.55, "is_mock": false}
+{"t": {"utc_ms": 1763000005000, "elapsed_ns": 10000000000, "rel_ms": 5000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 19.4, "hdop": 1.54, "is_mock": false}
+{"t": {"utc_ms": 1763000006000, "elapsed_ns": 11000000000, "rel_ms": 6000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 19.7, "hdop": 1.53, "is_mock": false}
+{"t": {"utc_ms": 1763000007000, "elapsed_ns": 12000000000, "rel_ms": 7000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 4, "snr_avg": 20.0, "hdop": 1.52, "is_mock": false}
+{"t": {"utc_ms": 1763000008000, "elapsed_ns": 13000000000, "rel_ms": 8000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 20.3, "hdop": 1.51, "is_mock": false}
+{"t": {"utc_ms": 1763000009000, "elapsed_ns": 14000000000, "rel_ms": 9000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 20.6, "hdop": 1.5, "is_mock": false}
+{"t": {"utc_ms": 1763000010000, "elapsed_ns": 15000000000, "rel_ms": 10000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 20.8, "hdop": 1.48, "is_mock": false}
+{"t": {"utc_ms": 1763000010000, "elapsed_ns": 15000000000, "rel_ms": 10000}, "type": "baro", "pressure_hpa": 1013.2, "altitude_m": 12.0}
+{"t": {"utc_ms": 1763000010000, "elapsed_ns": 15000000000, "rel_ms": 10000}, "type": "device", "battery_pct": 88, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000011000, "elapsed_ns": 16000000000, "rel_ms": 11000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 21.1, "hdop": 1.47, "is_mock": false}
+{"t": {"utc_ms": 1763000012000, "elapsed_ns": 17000000000, "rel_ms": 12000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 21.4, "hdop": 1.46, "is_mock": false}
+{"t": {"utc_ms": 1763000013000, "elapsed_ns": 18000000000, "rel_ms": 13000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 21.7, "hdop": 1.45, "is_mock": false}
+{"t": {"utc_ms": 1763000014000, "elapsed_ns": 19000000000, "rel_ms": 14000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 5, "snr_avg": 22.0, "hdop": 1.44, "is_mock": false}
+{"t": {"utc_ms": 1763000015000, "elapsed_ns": 20000000000, "rel_ms": 15000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 22.2, "hdop": 1.43, "is_mock": false}
+{"t": {"utc_ms": 1763000016000, "elapsed_ns": 21000000000, "rel_ms": 16000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 22.5, "hdop": 1.41, "is_mock": false}
+{"t": {"utc_ms": 1763000017000, "elapsed_ns": 22000000000, "rel_ms": 17000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 22.8, "hdop": 1.4, "is_mock": false}
+{"t": {"utc_ms": 1763000018000, "elapsed_ns": 23000000000, "rel_ms": 18000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 23.1, "hdop": 1.39, "is_mock": false}
+{"t": {"utc_ms": 1763000019000, "elapsed_ns": 24000000000, "rel_ms": 19000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 23.4, "hdop": 1.38, "is_mock": false}
+{"t": {"utc_ms": 1763000020000, "elapsed_ns": 25000000000, "rel_ms": 20000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 23.7, "hdop": 1.37, "is_mock": false}
+{"t": {"utc_ms": 1763000020000, "elapsed_ns": 25000000000, "rel_ms": 20000}, "type": "baro", "pressure_hpa": 1013.2, "altitude_m": 12.0}
+{"t": {"utc_ms": 1763000020000, "elapsed_ns": 25000000000, "rel_ms": 20000}, "type": "device", "battery_pct": 88, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000021000, "elapsed_ns": 26000000000, "rel_ms": 21000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 23.9, "hdop": 1.36, "is_mock": false}
+{"t": {"utc_ms": 1763000022000, "elapsed_ns": 27000000000, "rel_ms": 22000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 6, "snr_avg": 24.2, "hdop": 1.34, "is_mock": false}
+{"t": {"utc_ms": 1763000023000, "elapsed_ns": 28000000000, "rel_ms": 23000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 24.5, "hdop": 1.33, "is_mock": false}
+{"t": {"utc_ms": 1763000024000, "elapsed_ns": 29000000000, "rel_ms": 24000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 24.8, "hdop": 1.32, "is_mock": false}
+{"t": {"utc_ms": 1763000025000, "elapsed_ns": 30000000000, "rel_ms": 25000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 25.1, "hdop": 1.31, "is_mock": false}
+{"t": {"utc_ms": 1763000026000, "elapsed_ns": 31000000000, "rel_ms": 26000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 25.4, "hdop": 1.3, "is_mock": false}
+{"t": {"utc_ms": 1763000027000, "elapsed_ns": 32000000000, "rel_ms": 27000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 25.6, "hdop": 1.29, "is_mock": false}
+{"t": {"utc_ms": 1763000028000, "elapsed_ns": 33000000000, "rel_ms": 28000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 25.9, "hdop": 1.27, "is_mock": false}
+{"t": {"utc_ms": 1763000029000, "elapsed_ns": 34000000000, "rel_ms": 29000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 7, "snr_avg": 26.2, "hdop": 1.26, "is_mock": false}
+{"t": {"utc_ms": 1763000030000, "elapsed_ns": 35000000000, "rel_ms": 30000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 26.5, "hdop": 1.25, "is_mock": false}
+{"t": {"utc_ms": 1763000030000, "elapsed_ns": 35000000000, "rel_ms": 30000}, "type": "baro", "pressure_hpa": 1013.2, "altitude_m": 12.0}
+{"t": {"utc_ms": 1763000030000, "elapsed_ns": 35000000000, "rel_ms": 30000}, "type": "device", "battery_pct": 88, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000031000, "elapsed_ns": 36000000000, "rel_ms": 31000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 26.8, "hdop": 1.24, "is_mock": false}
+{"t": {"utc_ms": 1763000032000, "elapsed_ns": 37000000000, "rel_ms": 32000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 27.1, "hdop": 1.23, "is_mock": false}
+{"t": {"utc_ms": 1763000033000, "elapsed_ns": 38000000000, "rel_ms": 33000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 27.4, "hdop": 1.22, "is_mock": false}
+{"t": {"utc_ms": 1763000034000, "elapsed_ns": 39000000000, "rel_ms": 34000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 27.6, "hdop": 1.2, "is_mock": false}
+{"t": {"utc_ms": 1763000035000, "elapsed_ns": 40000000000, "rel_ms": 35000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 27.9, "hdop": 1.19, "is_mock": false}
+{"t": {"utc_ms": 1763000036000, "elapsed_ns": 41000000000, "rel_ms": 36000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 28.2, "hdop": 1.18, "is_mock": false}
+{"t": {"utc_ms": 1763000037000, "elapsed_ns": 42000000000, "rel_ms": 37000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 8, "snr_avg": 28.5, "hdop": 1.17, "is_mock": false}
+{"t": {"utc_ms": 1763000038000, "elapsed_ns": 43000000000, "rel_ms": 38000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 28.8, "hdop": 1.16, "is_mock": false}
+{"t": {"utc_ms": 1763000039000, "elapsed_ns": 44000000000, "rel_ms": 39000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 29.1, "hdop": 1.15, "is_mock": false}
+{"t": {"utc_ms": 1763000040000, "elapsed_ns": 45000000000, "rel_ms": 40000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 29.3, "hdop": 1.13, "is_mock": false}
+{"t": {"utc_ms": 1763000040000, "elapsed_ns": 45000000000, "rel_ms": 40000}, "type": "baro", "pressure_hpa": 1013.2, "altitude_m": 12.0}
+{"t": {"utc_ms": 1763000040000, "elapsed_ns": 45000000000, "rel_ms": 40000}, "type": "device", "battery_pct": 88, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000041000, "elapsed_ns": 46000000000, "rel_ms": 41000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 29.6, "hdop": 1.12, "is_mock": false}
+{"t": {"utc_ms": 1763000042000, "elapsed_ns": 47000000000, "rel_ms": 42000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 29.9, "hdop": 1.11, "is_mock": false}
+{"t": {"utc_ms": 1763000043000, "elapsed_ns": 48000000000, "rel_ms": 43000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 30.2, "hdop": 1.1, "is_mock": false}
+{"t": {"utc_ms": 1763000044000, "elapsed_ns": 49000000000, "rel_ms": 44000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 9, "snr_avg": 30.5, "hdop": 1.09, "is_mock": false}
+{"t": {"utc_ms": 1763000045000, "elapsed_ns": 50000000000, "rel_ms": 45000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 30.8, "hdop": 1.08, "is_mock": false}
+{"t": {"utc_ms": 1763000046000, "elapsed_ns": 51000000000, "rel_ms": 46000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 31.0, "hdop": 1.06, "is_mock": false}
+{"t": {"utc_ms": 1763000047000, "elapsed_ns": 52000000000, "rel_ms": 47000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 31.3, "hdop": 1.05, "is_mock": false}
+{"t": {"utc_ms": 1763000048000, "elapsed_ns": 53000000000, "rel_ms": 48000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 31.6, "hdop": 1.04, "is_mock": false}
+{"t": {"utc_ms": 1763000049000, "elapsed_ns": 54000000000, "rel_ms": 49000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 31.9, "hdop": 1.03, "is_mock": false}
+{"t": {"utc_ms": 1763000050000, "elapsed_ns": 55000000000, "rel_ms": 50000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 32.2, "hdop": 1.02, "is_mock": false}
+{"t": {"utc_ms": 1763000050000, "elapsed_ns": 55000000000, "rel_ms": 50000}, "type": "baro", "pressure_hpa": 1013.2, "altitude_m": 12.0}
+{"t": {"utc_ms": 1763000050000, "elapsed_ns": 55000000000, "rel_ms": 50000}, "type": "device", "battery_pct": 88, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000051000, "elapsed_ns": 56000000000, "rel_ms": 51000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 32.5, "hdop": 1.01, "is_mock": false}
+{"t": {"utc_ms": 1763000052000, "elapsed_ns": 57000000000, "rel_ms": 52000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 10, "snr_avg": 32.7, "hdop": 0.99, "is_mock": false}
+{"t": {"utc_ms": 1763000053000, "elapsed_ns": 58000000000, "rel_ms": 53000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 33.0, "hdop": 0.98, "is_mock": false}
+{"t": {"utc_ms": 1763000054000, "elapsed_ns": 59000000000, "rel_ms": 54000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 33.3, "hdop": 0.97, "is_mock": false}
+{"t": {"utc_ms": 1763000055000, "elapsed_ns": 60000000000, "rel_ms": 55000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 33.6, "hdop": 0.96, "is_mock": false}
+{"t": {"utc_ms": 1763000056000, "elapsed_ns": 61000000000, "rel_ms": 56000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 33.9, "hdop": 0.95, "is_mock": false}
+{"t": {"utc_ms": 1763000057000, "elapsed_ns": 62000000000, "rel_ms": 57000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 34.1, "hdop": 0.94, "is_mock": false}
+{"t": {"utc_ms": 1763000058000, "elapsed_ns": 63000000000, "rel_ms": 58000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 34.4, "hdop": 0.92, "is_mock": false}
+{"t": {"utc_ms": 1763000059000, "elapsed_ns": 64000000000, "rel_ms": 59000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 11, "snr_avg": 34.7, "hdop": 0.91, "is_mock": false}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "marker", "name": "run_start", "note": ""}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "step", "counter": 12000, "delta": 0, "detector": false}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "location", "lat": 30.0, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "step", "counter": 12001, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000060000, "elapsed_ns": 65000000000, "rel_ms": 60000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000060200, "elapsed_ns": 65200000000, "rel_ms": 60200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000060300, "elapsed_ns": 65300000000, "rel_ms": 60300}, "type": "step", "counter": 12002, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000060400, "elapsed_ns": 65400000000, "rel_ms": 60400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000060400, "elapsed_ns": 65400000000, "rel_ms": 60400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000060600, "elapsed_ns": 65600000000, "rel_ms": 60600}, "type": "step", "counter": 12003, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000060600, "elapsed_ns": 65600000000, "rel_ms": 60600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000060800, "elapsed_ns": 65800000000, "rel_ms": 60800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000060800, "elapsed_ns": 65800000000, "rel_ms": 60800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000061000, "elapsed_ns": 66000000000, "rel_ms": 61000}, "type": "location", "lat": 30.000023, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000061000, "elapsed_ns": 66000000000, "rel_ms": 61000}, "type": "step", "counter": 12004, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000061000, "elapsed_ns": 66000000000, "rel_ms": 61000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000061200, "elapsed_ns": 66200000000, "rel_ms": 61200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000061200, "elapsed_ns": 66200000000, "rel_ms": 61200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000061300, "elapsed_ns": 66300000000, "rel_ms": 61300}, "type": "step", "counter": 12005, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000061400, "elapsed_ns": 66400000000, "rel_ms": 61400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000061600, "elapsed_ns": 66600000000, "rel_ms": 61600}, "type": "step", "counter": 12006, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000061600, "elapsed_ns": 66600000000, "rel_ms": 61600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000061600, "elapsed_ns": 66600000000, "rel_ms": 61600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000061800, "elapsed_ns": 66800000000, "rel_ms": 61800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000062000, "elapsed_ns": 67000000000, "rel_ms": 62000}, "type": "location", "lat": 30.000046, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000062000, "elapsed_ns": 67000000000, "rel_ms": 62000}, "type": "step", "counter": 12007, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000062000, "elapsed_ns": 67000000000, "rel_ms": 62000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000062000, "elapsed_ns": 67000000000, "rel_ms": 62000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000062200, "elapsed_ns": 67200000000, "rel_ms": 62200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000062300, "elapsed_ns": 67300000000, "rel_ms": 62300}, "type": "step", "counter": 12008, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000062400, "elapsed_ns": 67400000000, "rel_ms": 62400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000062400, "elapsed_ns": 67400000000, "rel_ms": 62400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000062600, "elapsed_ns": 67600000000, "rel_ms": 62600}, "type": "step", "counter": 12009, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000062600, "elapsed_ns": 67600000000, "rel_ms": 62600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000062800, "elapsed_ns": 67800000000, "rel_ms": 62800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000062800, "elapsed_ns": 67800000000, "rel_ms": 62800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000063000, "elapsed_ns": 68000000000, "rel_ms": 63000}, "type": "location", "lat": 30.000069, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000063000, "elapsed_ns": 68000000000, "rel_ms": 63000}, "type": "step", "counter": 12010, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000063000, "elapsed_ns": 68000000000, "rel_ms": 63000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000063200, "elapsed_ns": 68200000000, "rel_ms": 63200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000063200, "elapsed_ns": 68200000000, "rel_ms": 63200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000063300, "elapsed_ns": 68300000000, "rel_ms": 63300}, "type": "step", "counter": 12011, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000063400, "elapsed_ns": 68400000000, "rel_ms": 63400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000063600, "elapsed_ns": 68600000000, "rel_ms": 63600}, "type": "step", "counter": 12012, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000063600, "elapsed_ns": 68600000000, "rel_ms": 63600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000063600, "elapsed_ns": 68600000000, "rel_ms": 63600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000063800, "elapsed_ns": 68800000000, "rel_ms": 63800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000064000, "elapsed_ns": 69000000000, "rel_ms": 64000}, "type": "location", "lat": 30.000092, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000064000, "elapsed_ns": 69000000000, "rel_ms": 64000}, "type": "step", "counter": 12013, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000064000, "elapsed_ns": 69000000000, "rel_ms": 64000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000064000, "elapsed_ns": 69000000000, "rel_ms": 64000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000064200, "elapsed_ns": 69200000000, "rel_ms": 64200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000064300, "elapsed_ns": 69300000000, "rel_ms": 64300}, "type": "step", "counter": 12014, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000064400, "elapsed_ns": 69400000000, "rel_ms": 64400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000064400, "elapsed_ns": 69400000000, "rel_ms": 64400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000064600, "elapsed_ns": 69600000000, "rel_ms": 64600}, "type": "step", "counter": 12015, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000064600, "elapsed_ns": 69600000000, "rel_ms": 64600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000064800, "elapsed_ns": 69800000000, "rel_ms": 64800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000064800, "elapsed_ns": 69800000000, "rel_ms": 64800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000065000, "elapsed_ns": 70000000000, "rel_ms": 65000}, "type": "location", "lat": 30.000115, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000065000, "elapsed_ns": 70000000000, "rel_ms": 65000}, "type": "step", "counter": 12016, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000065000, "elapsed_ns": 70000000000, "rel_ms": 65000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000065200, "elapsed_ns": 70200000000, "rel_ms": 65200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000065200, "elapsed_ns": 70200000000, "rel_ms": 65200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000065300, "elapsed_ns": 70300000000, "rel_ms": 65300}, "type": "step", "counter": 12017, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000065400, "elapsed_ns": 70400000000, "rel_ms": 65400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000065600, "elapsed_ns": 70600000000, "rel_ms": 65600}, "type": "step", "counter": 12018, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000065600, "elapsed_ns": 70600000000, "rel_ms": 65600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000065600, "elapsed_ns": 70600000000, "rel_ms": 65600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000065800, "elapsed_ns": 70800000000, "rel_ms": 65800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000066000, "elapsed_ns": 71000000000, "rel_ms": 66000}, "type": "location", "lat": 30.000138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000066000, "elapsed_ns": 71000000000, "rel_ms": 66000}, "type": "step", "counter": 12019, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000066000, "elapsed_ns": 71000000000, "rel_ms": 66000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000066000, "elapsed_ns": 71000000000, "rel_ms": 66000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000066200, "elapsed_ns": 71200000000, "rel_ms": 66200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000066300, "elapsed_ns": 71300000000, "rel_ms": 66300}, "type": "step", "counter": 12020, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000066400, "elapsed_ns": 71400000000, "rel_ms": 66400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000066400, "elapsed_ns": 71400000000, "rel_ms": 66400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000066600, "elapsed_ns": 71600000000, "rel_ms": 66600}, "type": "step", "counter": 12021, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000066600, "elapsed_ns": 71600000000, "rel_ms": 66600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000066800, "elapsed_ns": 71800000000, "rel_ms": 66800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000066800, "elapsed_ns": 71800000000, "rel_ms": 66800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000067000, "elapsed_ns": 72000000000, "rel_ms": 67000}, "type": "location", "lat": 30.000161, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000067000, "elapsed_ns": 72000000000, "rel_ms": 67000}, "type": "step", "counter": 12022, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000067000, "elapsed_ns": 72000000000, "rel_ms": 67000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000067200, "elapsed_ns": 72200000000, "rel_ms": 67200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000067200, "elapsed_ns": 72200000000, "rel_ms": 67200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000067300, "elapsed_ns": 72300000000, "rel_ms": 67300}, "type": "step", "counter": 12023, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000067400, "elapsed_ns": 72400000000, "rel_ms": 67400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000067600, "elapsed_ns": 72600000000, "rel_ms": 67600}, "type": "step", "counter": 12024, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000067600, "elapsed_ns": 72600000000, "rel_ms": 67600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000067600, "elapsed_ns": 72600000000, "rel_ms": 67600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000067800, "elapsed_ns": 72800000000, "rel_ms": 67800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000068000, "elapsed_ns": 73000000000, "rel_ms": 68000}, "type": "location", "lat": 30.000184, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000068000, "elapsed_ns": 73000000000, "rel_ms": 68000}, "type": "step", "counter": 12025, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000068000, "elapsed_ns": 73000000000, "rel_ms": 68000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000068000, "elapsed_ns": 73000000000, "rel_ms": 68000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000068200, "elapsed_ns": 73200000000, "rel_ms": 68200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000068300, "elapsed_ns": 73300000000, "rel_ms": 68300}, "type": "step", "counter": 12026, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000068400, "elapsed_ns": 73400000000, "rel_ms": 68400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000068400, "elapsed_ns": 73400000000, "rel_ms": 68400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000068600, "elapsed_ns": 73600000000, "rel_ms": 68600}, "type": "step", "counter": 12027, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000068600, "elapsed_ns": 73600000000, "rel_ms": 68600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000068800, "elapsed_ns": 73800000000, "rel_ms": 68800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000068800, "elapsed_ns": 73800000000, "rel_ms": 68800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000069000, "elapsed_ns": 74000000000, "rel_ms": 69000}, "type": "location", "lat": 30.000207, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000069000, "elapsed_ns": 74000000000, "rel_ms": 69000}, "type": "step", "counter": 12028, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000069000, "elapsed_ns": 74000000000, "rel_ms": 69000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000069200, "elapsed_ns": 74200000000, "rel_ms": 69200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000069200, "elapsed_ns": 74200000000, "rel_ms": 69200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000069300, "elapsed_ns": 74300000000, "rel_ms": 69300}, "type": "step", "counter": 12029, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000069400, "elapsed_ns": 74400000000, "rel_ms": 69400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000069600, "elapsed_ns": 74600000000, "rel_ms": 69600}, "type": "step", "counter": 12030, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000069600, "elapsed_ns": 74600000000, "rel_ms": 69600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000069600, "elapsed_ns": 74600000000, "rel_ms": 69600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000069800, "elapsed_ns": 74800000000, "rel_ms": 69800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000070000, "elapsed_ns": 75000000000, "rel_ms": 70000}, "type": "location", "lat": 30.00023, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000070000, "elapsed_ns": 75000000000, "rel_ms": 70000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000070000, "elapsed_ns": 75000000000, "rel_ms": 70000}, "type": "baro", "pressure_hpa": 1012.98, "altitude_m": 12.1}
+{"t": {"utc_ms": 1763000070000, "elapsed_ns": 75000000000, "rel_ms": 70000}, "type": "step", "counter": 12031, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000070000, "elapsed_ns": 75000000000, "rel_ms": 70000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000070000, "elapsed_ns": 75000000000, "rel_ms": 70000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000070200, "elapsed_ns": 75200000000, "rel_ms": 70200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000070300, "elapsed_ns": 75300000000, "rel_ms": 70300}, "type": "step", "counter": 12032, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000070400, "elapsed_ns": 75400000000, "rel_ms": 70400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000070400, "elapsed_ns": 75400000000, "rel_ms": 70400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000070600, "elapsed_ns": 75600000000, "rel_ms": 70600}, "type": "step", "counter": 12033, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000070600, "elapsed_ns": 75600000000, "rel_ms": 70600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000070800, "elapsed_ns": 75800000000, "rel_ms": 70800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000070800, "elapsed_ns": 75800000000, "rel_ms": 70800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000071000, "elapsed_ns": 76000000000, "rel_ms": 71000}, "type": "location", "lat": 30.000253, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000071000, "elapsed_ns": 76000000000, "rel_ms": 71000}, "type": "step", "counter": 12034, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000071000, "elapsed_ns": 76000000000, "rel_ms": 71000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000071200, "elapsed_ns": 76200000000, "rel_ms": 71200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000071200, "elapsed_ns": 76200000000, "rel_ms": 71200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000071300, "elapsed_ns": 76300000000, "rel_ms": 71300}, "type": "step", "counter": 12035, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000071400, "elapsed_ns": 76400000000, "rel_ms": 71400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000071600, "elapsed_ns": 76600000000, "rel_ms": 71600}, "type": "step", "counter": 12036, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000071600, "elapsed_ns": 76600000000, "rel_ms": 71600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000071600, "elapsed_ns": 76600000000, "rel_ms": 71600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000071800, "elapsed_ns": 76800000000, "rel_ms": 71800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000072000, "elapsed_ns": 77000000000, "rel_ms": 72000}, "type": "location", "lat": 30.000276, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000072000, "elapsed_ns": 77000000000, "rel_ms": 72000}, "type": "step", "counter": 12037, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000072000, "elapsed_ns": 77000000000, "rel_ms": 72000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000072000, "elapsed_ns": 77000000000, "rel_ms": 72000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000072200, "elapsed_ns": 77200000000, "rel_ms": 72200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000072300, "elapsed_ns": 77300000000, "rel_ms": 72300}, "type": "step", "counter": 12038, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000072400, "elapsed_ns": 77400000000, "rel_ms": 72400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000072400, "elapsed_ns": 77400000000, "rel_ms": 72400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000072600, "elapsed_ns": 77600000000, "rel_ms": 72600}, "type": "step", "counter": 12039, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000072600, "elapsed_ns": 77600000000, "rel_ms": 72600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000072800, "elapsed_ns": 77800000000, "rel_ms": 72800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000072800, "elapsed_ns": 77800000000, "rel_ms": 72800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000073000, "elapsed_ns": 78000000000, "rel_ms": 73000}, "type": "location", "lat": 30.000299, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000073000, "elapsed_ns": 78000000000, "rel_ms": 73000}, "type": "step", "counter": 12040, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000073000, "elapsed_ns": 78000000000, "rel_ms": 73000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000073200, "elapsed_ns": 78200000000, "rel_ms": 73200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000073200, "elapsed_ns": 78200000000, "rel_ms": 73200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000073300, "elapsed_ns": 78300000000, "rel_ms": 73300}, "type": "step", "counter": 12041, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000073400, "elapsed_ns": 78400000000, "rel_ms": 73400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000073600, "elapsed_ns": 78600000000, "rel_ms": 73600}, "type": "step", "counter": 12042, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000073600, "elapsed_ns": 78600000000, "rel_ms": 73600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000073600, "elapsed_ns": 78600000000, "rel_ms": 73600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000073800, "elapsed_ns": 78800000000, "rel_ms": 73800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000074000, "elapsed_ns": 79000000000, "rel_ms": 74000}, "type": "location", "lat": 30.000322, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000074000, "elapsed_ns": 79000000000, "rel_ms": 74000}, "type": "step", "counter": 12043, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000074000, "elapsed_ns": 79000000000, "rel_ms": 74000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000074000, "elapsed_ns": 79000000000, "rel_ms": 74000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000074200, "elapsed_ns": 79200000000, "rel_ms": 74200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000074300, "elapsed_ns": 79300000000, "rel_ms": 74300}, "type": "step", "counter": 12044, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000074400, "elapsed_ns": 79400000000, "rel_ms": 74400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000074400, "elapsed_ns": 79400000000, "rel_ms": 74400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000074600, "elapsed_ns": 79600000000, "rel_ms": 74600}, "type": "step", "counter": 12045, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000074600, "elapsed_ns": 79600000000, "rel_ms": 74600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000074800, "elapsed_ns": 79800000000, "rel_ms": 74800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000074800, "elapsed_ns": 79800000000, "rel_ms": 74800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000075000, "elapsed_ns": 80000000000, "rel_ms": 75000}, "type": "location", "lat": 30.000345, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000075000, "elapsed_ns": 80000000000, "rel_ms": 75000}, "type": "step", "counter": 12046, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000075000, "elapsed_ns": 80000000000, "rel_ms": 75000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000075200, "elapsed_ns": 80200000000, "rel_ms": 75200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000075200, "elapsed_ns": 80200000000, "rel_ms": 75200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000075300, "elapsed_ns": 80300000000, "rel_ms": 75300}, "type": "step", "counter": 12047, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000075400, "elapsed_ns": 80400000000, "rel_ms": 75400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000075600, "elapsed_ns": 80600000000, "rel_ms": 75600}, "type": "step", "counter": 12048, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000075600, "elapsed_ns": 80600000000, "rel_ms": 75600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000075600, "elapsed_ns": 80600000000, "rel_ms": 75600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000075800, "elapsed_ns": 80800000000, "rel_ms": 75800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000076000, "elapsed_ns": 81000000000, "rel_ms": 76000}, "type": "location", "lat": 30.000368, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000076000, "elapsed_ns": 81000000000, "rel_ms": 76000}, "type": "step", "counter": 12049, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000076000, "elapsed_ns": 81000000000, "rel_ms": 76000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000076000, "elapsed_ns": 81000000000, "rel_ms": 76000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000076200, "elapsed_ns": 81200000000, "rel_ms": 76200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000076300, "elapsed_ns": 81300000000, "rel_ms": 76300}, "type": "step", "counter": 12050, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000076400, "elapsed_ns": 81400000000, "rel_ms": 76400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000076400, "elapsed_ns": 81400000000, "rel_ms": 76400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000076600, "elapsed_ns": 81600000000, "rel_ms": 76600}, "type": "step", "counter": 12051, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000076600, "elapsed_ns": 81600000000, "rel_ms": 76600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000076800, "elapsed_ns": 81800000000, "rel_ms": 76800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000076800, "elapsed_ns": 81800000000, "rel_ms": 76800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000077000, "elapsed_ns": 82000000000, "rel_ms": 77000}, "type": "location", "lat": 30.000391, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000077000, "elapsed_ns": 82000000000, "rel_ms": 77000}, "type": "step", "counter": 12052, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000077000, "elapsed_ns": 82000000000, "rel_ms": 77000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000077200, "elapsed_ns": 82200000000, "rel_ms": 77200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000077200, "elapsed_ns": 82200000000, "rel_ms": 77200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000077300, "elapsed_ns": 82300000000, "rel_ms": 77300}, "type": "step", "counter": 12053, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000077400, "elapsed_ns": 82400000000, "rel_ms": 77400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000077600, "elapsed_ns": 82600000000, "rel_ms": 77600}, "type": "step", "counter": 12054, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000077600, "elapsed_ns": 82600000000, "rel_ms": 77600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000077600, "elapsed_ns": 82600000000, "rel_ms": 77600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000077800, "elapsed_ns": 82800000000, "rel_ms": 77800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000078000, "elapsed_ns": 83000000000, "rel_ms": 78000}, "type": "location", "lat": 30.000414, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000078000, "elapsed_ns": 83000000000, "rel_ms": 78000}, "type": "step", "counter": 12055, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000078000, "elapsed_ns": 83000000000, "rel_ms": 78000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000078000, "elapsed_ns": 83000000000, "rel_ms": 78000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000078200, "elapsed_ns": 83200000000, "rel_ms": 78200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000078300, "elapsed_ns": 83300000000, "rel_ms": 78300}, "type": "step", "counter": 12056, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000078400, "elapsed_ns": 83400000000, "rel_ms": 78400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000078400, "elapsed_ns": 83400000000, "rel_ms": 78400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000078600, "elapsed_ns": 83600000000, "rel_ms": 78600}, "type": "step", "counter": 12057, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000078600, "elapsed_ns": 83600000000, "rel_ms": 78600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000078800, "elapsed_ns": 83800000000, "rel_ms": 78800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000078800, "elapsed_ns": 83800000000, "rel_ms": 78800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000079000, "elapsed_ns": 84000000000, "rel_ms": 79000}, "type": "location", "lat": 30.000437, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000079000, "elapsed_ns": 84000000000, "rel_ms": 79000}, "type": "step", "counter": 12058, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000079000, "elapsed_ns": 84000000000, "rel_ms": 79000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000079200, "elapsed_ns": 84200000000, "rel_ms": 79200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000079200, "elapsed_ns": 84200000000, "rel_ms": 79200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000079300, "elapsed_ns": 84300000000, "rel_ms": 79300}, "type": "step", "counter": 12059, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000079400, "elapsed_ns": 84400000000, "rel_ms": 79400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000079600, "elapsed_ns": 84600000000, "rel_ms": 79600}, "type": "step", "counter": 12060, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000079600, "elapsed_ns": 84600000000, "rel_ms": 79600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000079600, "elapsed_ns": 84600000000, "rel_ms": 79600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000079800, "elapsed_ns": 84800000000, "rel_ms": 79800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000080000, "elapsed_ns": 85000000000, "rel_ms": 80000}, "type": "location", "lat": 30.00046, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000080000, "elapsed_ns": 85000000000, "rel_ms": 80000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000080000, "elapsed_ns": 85000000000, "rel_ms": 80000}, "type": "baro", "pressure_hpa": 1012.96, "altitude_m": 12.2}
+{"t": {"utc_ms": 1763000080000, "elapsed_ns": 85000000000, "rel_ms": 80000}, "type": "step", "counter": 12061, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000080000, "elapsed_ns": 85000000000, "rel_ms": 80000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000080000, "elapsed_ns": 85000000000, "rel_ms": 80000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000080200, "elapsed_ns": 85200000000, "rel_ms": 80200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000080300, "elapsed_ns": 85300000000, "rel_ms": 80300}, "type": "step", "counter": 12062, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000080400, "elapsed_ns": 85400000000, "rel_ms": 80400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000080400, "elapsed_ns": 85400000000, "rel_ms": 80400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000080600, "elapsed_ns": 85600000000, "rel_ms": 80600}, "type": "step", "counter": 12063, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000080600, "elapsed_ns": 85600000000, "rel_ms": 80600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000080800, "elapsed_ns": 85800000000, "rel_ms": 80800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000080800, "elapsed_ns": 85800000000, "rel_ms": 80800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000081000, "elapsed_ns": 86000000000, "rel_ms": 81000}, "type": "location", "lat": 30.000483, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000081000, "elapsed_ns": 86000000000, "rel_ms": 81000}, "type": "step", "counter": 12064, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000081000, "elapsed_ns": 86000000000, "rel_ms": 81000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000081200, "elapsed_ns": 86200000000, "rel_ms": 81200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000081200, "elapsed_ns": 86200000000, "rel_ms": 81200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000081300, "elapsed_ns": 86300000000, "rel_ms": 81300}, "type": "step", "counter": 12065, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000081400, "elapsed_ns": 86400000000, "rel_ms": 81400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000081600, "elapsed_ns": 86600000000, "rel_ms": 81600}, "type": "step", "counter": 12066, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000081600, "elapsed_ns": 86600000000, "rel_ms": 81600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000081600, "elapsed_ns": 86600000000, "rel_ms": 81600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000081800, "elapsed_ns": 86800000000, "rel_ms": 81800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000082000, "elapsed_ns": 87000000000, "rel_ms": 82000}, "type": "location", "lat": 30.000506, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000082000, "elapsed_ns": 87000000000, "rel_ms": 82000}, "type": "step", "counter": 12067, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000082000, "elapsed_ns": 87000000000, "rel_ms": 82000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000082000, "elapsed_ns": 87000000000, "rel_ms": 82000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000082200, "elapsed_ns": 87200000000, "rel_ms": 82200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000082300, "elapsed_ns": 87300000000, "rel_ms": 82300}, "type": "step", "counter": 12068, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000082400, "elapsed_ns": 87400000000, "rel_ms": 82400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000082400, "elapsed_ns": 87400000000, "rel_ms": 82400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000082600, "elapsed_ns": 87600000000, "rel_ms": 82600}, "type": "step", "counter": 12069, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000082600, "elapsed_ns": 87600000000, "rel_ms": 82600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000082800, "elapsed_ns": 87800000000, "rel_ms": 82800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000082800, "elapsed_ns": 87800000000, "rel_ms": 82800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000083000, "elapsed_ns": 88000000000, "rel_ms": 83000}, "type": "location", "lat": 30.000529, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000083000, "elapsed_ns": 88000000000, "rel_ms": 83000}, "type": "step", "counter": 12070, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000083000, "elapsed_ns": 88000000000, "rel_ms": 83000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000083200, "elapsed_ns": 88200000000, "rel_ms": 83200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000083200, "elapsed_ns": 88200000000, "rel_ms": 83200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000083300, "elapsed_ns": 88300000000, "rel_ms": 83300}, "type": "step", "counter": 12071, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000083400, "elapsed_ns": 88400000000, "rel_ms": 83400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000083600, "elapsed_ns": 88600000000, "rel_ms": 83600}, "type": "step", "counter": 12072, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000083600, "elapsed_ns": 88600000000, "rel_ms": 83600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000083600, "elapsed_ns": 88600000000, "rel_ms": 83600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000083800, "elapsed_ns": 88800000000, "rel_ms": 83800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000084000, "elapsed_ns": 89000000000, "rel_ms": 84000}, "type": "location", "lat": 30.000552, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000084000, "elapsed_ns": 89000000000, "rel_ms": 84000}, "type": "step", "counter": 12073, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000084000, "elapsed_ns": 89000000000, "rel_ms": 84000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000084000, "elapsed_ns": 89000000000, "rel_ms": 84000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000084200, "elapsed_ns": 89200000000, "rel_ms": 84200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000084300, "elapsed_ns": 89300000000, "rel_ms": 84300}, "type": "step", "counter": 12074, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000084400, "elapsed_ns": 89400000000, "rel_ms": 84400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000084400, "elapsed_ns": 89400000000, "rel_ms": 84400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000084600, "elapsed_ns": 89600000000, "rel_ms": 84600}, "type": "step", "counter": 12075, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000084600, "elapsed_ns": 89600000000, "rel_ms": 84600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000084800, "elapsed_ns": 89800000000, "rel_ms": 84800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000084800, "elapsed_ns": 89800000000, "rel_ms": 84800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000085000, "elapsed_ns": 90000000000, "rel_ms": 85000}, "type": "location", "lat": 30.000575, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000085000, "elapsed_ns": 90000000000, "rel_ms": 85000}, "type": "step", "counter": 12076, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000085000, "elapsed_ns": 90000000000, "rel_ms": 85000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000085200, "elapsed_ns": 90200000000, "rel_ms": 85200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000085200, "elapsed_ns": 90200000000, "rel_ms": 85200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000085300, "elapsed_ns": 90300000000, "rel_ms": 85300}, "type": "step", "counter": 12077, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000085400, "elapsed_ns": 90400000000, "rel_ms": 85400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000085600, "elapsed_ns": 90600000000, "rel_ms": 85600}, "type": "step", "counter": 12078, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000085600, "elapsed_ns": 90600000000, "rel_ms": 85600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000085600, "elapsed_ns": 90600000000, "rel_ms": 85600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000085800, "elapsed_ns": 90800000000, "rel_ms": 85800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000086000, "elapsed_ns": 91000000000, "rel_ms": 86000}, "type": "location", "lat": 30.000598, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000086000, "elapsed_ns": 91000000000, "rel_ms": 86000}, "type": "step", "counter": 12079, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000086000, "elapsed_ns": 91000000000, "rel_ms": 86000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000086000, "elapsed_ns": 91000000000, "rel_ms": 86000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000086200, "elapsed_ns": 91200000000, "rel_ms": 86200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000086300, "elapsed_ns": 91300000000, "rel_ms": 86300}, "type": "step", "counter": 12080, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000086400, "elapsed_ns": 91400000000, "rel_ms": 86400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000086400, "elapsed_ns": 91400000000, "rel_ms": 86400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000086600, "elapsed_ns": 91600000000, "rel_ms": 86600}, "type": "step", "counter": 12081, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000086600, "elapsed_ns": 91600000000, "rel_ms": 86600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000086800, "elapsed_ns": 91800000000, "rel_ms": 86800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000086800, "elapsed_ns": 91800000000, "rel_ms": 86800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000087000, "elapsed_ns": 92000000000, "rel_ms": 87000}, "type": "location", "lat": 30.000621, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000087000, "elapsed_ns": 92000000000, "rel_ms": 87000}, "type": "step", "counter": 12082, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000087000, "elapsed_ns": 92000000000, "rel_ms": 87000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000087200, "elapsed_ns": 92200000000, "rel_ms": 87200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000087200, "elapsed_ns": 92200000000, "rel_ms": 87200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000087300, "elapsed_ns": 92300000000, "rel_ms": 87300}, "type": "step", "counter": 12083, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000087400, "elapsed_ns": 92400000000, "rel_ms": 87400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000087600, "elapsed_ns": 92600000000, "rel_ms": 87600}, "type": "step", "counter": 12084, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000087600, "elapsed_ns": 92600000000, "rel_ms": 87600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000087600, "elapsed_ns": 92600000000, "rel_ms": 87600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000087800, "elapsed_ns": 92800000000, "rel_ms": 87800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000088000, "elapsed_ns": 93000000000, "rel_ms": 88000}, "type": "location", "lat": 30.000644, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000088000, "elapsed_ns": 93000000000, "rel_ms": 88000}, "type": "step", "counter": 12085, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000088000, "elapsed_ns": 93000000000, "rel_ms": 88000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000088000, "elapsed_ns": 93000000000, "rel_ms": 88000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000088200, "elapsed_ns": 93200000000, "rel_ms": 88200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000088300, "elapsed_ns": 93300000000, "rel_ms": 88300}, "type": "step", "counter": 12086, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000088400, "elapsed_ns": 93400000000, "rel_ms": 88400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000088400, "elapsed_ns": 93400000000, "rel_ms": 88400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000088600, "elapsed_ns": 93600000000, "rel_ms": 88600}, "type": "step", "counter": 12087, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000088600, "elapsed_ns": 93600000000, "rel_ms": 88600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000088800, "elapsed_ns": 93800000000, "rel_ms": 88800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000088800, "elapsed_ns": 93800000000, "rel_ms": 88800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000089000, "elapsed_ns": 94000000000, "rel_ms": 89000}, "type": "location", "lat": 30.000667, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000089000, "elapsed_ns": 94000000000, "rel_ms": 89000}, "type": "step", "counter": 12088, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000089000, "elapsed_ns": 94000000000, "rel_ms": 89000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000089200, "elapsed_ns": 94200000000, "rel_ms": 89200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000089200, "elapsed_ns": 94200000000, "rel_ms": 89200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000089300, "elapsed_ns": 94300000000, "rel_ms": 89300}, "type": "step", "counter": 12089, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000089400, "elapsed_ns": 94400000000, "rel_ms": 89400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000089600, "elapsed_ns": 94600000000, "rel_ms": 89600}, "type": "step", "counter": 12090, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000089600, "elapsed_ns": 94600000000, "rel_ms": 89600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000089600, "elapsed_ns": 94600000000, "rel_ms": 89600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000089800, "elapsed_ns": 94800000000, "rel_ms": 89800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000090000, "elapsed_ns": 95000000000, "rel_ms": 90000}, "type": "location", "lat": 30.00069, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000090000, "elapsed_ns": 95000000000, "rel_ms": 90000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000090000, "elapsed_ns": 95000000000, "rel_ms": 90000}, "type": "baro", "pressure_hpa": 1012.94, "altitude_m": 12.3}
+{"t": {"utc_ms": 1763000090000, "elapsed_ns": 95000000000, "rel_ms": 90000}, "type": "step", "counter": 12091, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000090000, "elapsed_ns": 95000000000, "rel_ms": 90000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000090000, "elapsed_ns": 95000000000, "rel_ms": 90000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000090200, "elapsed_ns": 95200000000, "rel_ms": 90200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000090300, "elapsed_ns": 95300000000, "rel_ms": 90300}, "type": "step", "counter": 12092, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000090400, "elapsed_ns": 95400000000, "rel_ms": 90400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000090400, "elapsed_ns": 95400000000, "rel_ms": 90400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000090600, "elapsed_ns": 95600000000, "rel_ms": 90600}, "type": "step", "counter": 12093, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000090600, "elapsed_ns": 95600000000, "rel_ms": 90600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000090800, "elapsed_ns": 95800000000, "rel_ms": 90800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000090800, "elapsed_ns": 95800000000, "rel_ms": 90800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000091000, "elapsed_ns": 96000000000, "rel_ms": 91000}, "type": "location", "lat": 30.000713, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000091000, "elapsed_ns": 96000000000, "rel_ms": 91000}, "type": "step", "counter": 12094, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000091000, "elapsed_ns": 96000000000, "rel_ms": 91000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000091200, "elapsed_ns": 96200000000, "rel_ms": 91200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000091200, "elapsed_ns": 96200000000, "rel_ms": 91200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000091300, "elapsed_ns": 96300000000, "rel_ms": 91300}, "type": "step", "counter": 12095, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000091400, "elapsed_ns": 96400000000, "rel_ms": 91400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000091600, "elapsed_ns": 96600000000, "rel_ms": 91600}, "type": "step", "counter": 12096, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000091600, "elapsed_ns": 96600000000, "rel_ms": 91600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000091600, "elapsed_ns": 96600000000, "rel_ms": 91600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000091800, "elapsed_ns": 96800000000, "rel_ms": 91800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000092000, "elapsed_ns": 97000000000, "rel_ms": 92000}, "type": "location", "lat": 30.000736, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000092000, "elapsed_ns": 97000000000, "rel_ms": 92000}, "type": "step", "counter": 12097, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000092000, "elapsed_ns": 97000000000, "rel_ms": 92000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000092000, "elapsed_ns": 97000000000, "rel_ms": 92000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000092200, "elapsed_ns": 97200000000, "rel_ms": 92200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000092300, "elapsed_ns": 97300000000, "rel_ms": 92300}, "type": "step", "counter": 12098, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000092400, "elapsed_ns": 97400000000, "rel_ms": 92400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000092400, "elapsed_ns": 97400000000, "rel_ms": 92400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000092600, "elapsed_ns": 97600000000, "rel_ms": 92600}, "type": "step", "counter": 12099, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000092600, "elapsed_ns": 97600000000, "rel_ms": 92600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000092800, "elapsed_ns": 97800000000, "rel_ms": 92800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000092800, "elapsed_ns": 97800000000, "rel_ms": 92800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000093000, "elapsed_ns": 98000000000, "rel_ms": 93000}, "type": "location", "lat": 30.000759, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000093000, "elapsed_ns": 98000000000, "rel_ms": 93000}, "type": "step", "counter": 12100, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000093000, "elapsed_ns": 98000000000, "rel_ms": 93000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000093200, "elapsed_ns": 98200000000, "rel_ms": 93200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000093200, "elapsed_ns": 98200000000, "rel_ms": 93200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000093300, "elapsed_ns": 98300000000, "rel_ms": 93300}, "type": "step", "counter": 12101, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000093400, "elapsed_ns": 98400000000, "rel_ms": 93400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000093600, "elapsed_ns": 98600000000, "rel_ms": 93600}, "type": "step", "counter": 12102, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000093600, "elapsed_ns": 98600000000, "rel_ms": 93600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000093600, "elapsed_ns": 98600000000, "rel_ms": 93600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000093800, "elapsed_ns": 98800000000, "rel_ms": 93800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000094000, "elapsed_ns": 99000000000, "rel_ms": 94000}, "type": "location", "lat": 30.000782, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000094000, "elapsed_ns": 99000000000, "rel_ms": 94000}, "type": "step", "counter": 12103, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000094000, "elapsed_ns": 99000000000, "rel_ms": 94000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000094000, "elapsed_ns": 99000000000, "rel_ms": 94000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000094200, "elapsed_ns": 99200000000, "rel_ms": 94200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000094300, "elapsed_ns": 99300000000, "rel_ms": 94300}, "type": "step", "counter": 12104, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000094400, "elapsed_ns": 99400000000, "rel_ms": 94400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000094400, "elapsed_ns": 99400000000, "rel_ms": 94400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000094600, "elapsed_ns": 99600000000, "rel_ms": 94600}, "type": "step", "counter": 12105, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000094600, "elapsed_ns": 99600000000, "rel_ms": 94600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000094800, "elapsed_ns": 99800000000, "rel_ms": 94800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000094800, "elapsed_ns": 99800000000, "rel_ms": 94800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000095000, "elapsed_ns": 100000000000, "rel_ms": 95000}, "type": "location", "lat": 30.000805, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000095000, "elapsed_ns": 100000000000, "rel_ms": 95000}, "type": "step", "counter": 12106, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000095000, "elapsed_ns": 100000000000, "rel_ms": 95000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000095200, "elapsed_ns": 100200000000, "rel_ms": 95200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000095200, "elapsed_ns": 100200000000, "rel_ms": 95200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000095300, "elapsed_ns": 100300000000, "rel_ms": 95300}, "type": "step", "counter": 12107, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000095400, "elapsed_ns": 100400000000, "rel_ms": 95400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000095600, "elapsed_ns": 100600000000, "rel_ms": 95600}, "type": "step", "counter": 12108, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000095600, "elapsed_ns": 100600000000, "rel_ms": 95600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000095600, "elapsed_ns": 100600000000, "rel_ms": 95600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000095800, "elapsed_ns": 100800000000, "rel_ms": 95800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000096000, "elapsed_ns": 101000000000, "rel_ms": 96000}, "type": "location", "lat": 30.000828, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000096000, "elapsed_ns": 101000000000, "rel_ms": 96000}, "type": "step", "counter": 12109, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000096000, "elapsed_ns": 101000000000, "rel_ms": 96000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000096000, "elapsed_ns": 101000000000, "rel_ms": 96000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000096200, "elapsed_ns": 101200000000, "rel_ms": 96200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000096300, "elapsed_ns": 101300000000, "rel_ms": 96300}, "type": "step", "counter": 12110, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000096400, "elapsed_ns": 101400000000, "rel_ms": 96400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000096400, "elapsed_ns": 101400000000, "rel_ms": 96400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000096600, "elapsed_ns": 101600000000, "rel_ms": 96600}, "type": "step", "counter": 12111, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000096600, "elapsed_ns": 101600000000, "rel_ms": 96600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000096800, "elapsed_ns": 101800000000, "rel_ms": 96800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000096800, "elapsed_ns": 101800000000, "rel_ms": 96800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000097000, "elapsed_ns": 102000000000, "rel_ms": 97000}, "type": "location", "lat": 30.000851, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000097000, "elapsed_ns": 102000000000, "rel_ms": 97000}, "type": "step", "counter": 12112, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000097000, "elapsed_ns": 102000000000, "rel_ms": 97000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000097200, "elapsed_ns": 102200000000, "rel_ms": 97200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000097200, "elapsed_ns": 102200000000, "rel_ms": 97200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000097300, "elapsed_ns": 102300000000, "rel_ms": 97300}, "type": "step", "counter": 12113, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000097400, "elapsed_ns": 102400000000, "rel_ms": 97400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000097600, "elapsed_ns": 102600000000, "rel_ms": 97600}, "type": "step", "counter": 12114, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000097600, "elapsed_ns": 102600000000, "rel_ms": 97600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000097600, "elapsed_ns": 102600000000, "rel_ms": 97600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000097800, "elapsed_ns": 102800000000, "rel_ms": 97800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000098000, "elapsed_ns": 103000000000, "rel_ms": 98000}, "type": "location", "lat": 30.000874, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000098000, "elapsed_ns": 103000000000, "rel_ms": 98000}, "type": "step", "counter": 12115, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000098000, "elapsed_ns": 103000000000, "rel_ms": 98000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000098000, "elapsed_ns": 103000000000, "rel_ms": 98000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000098200, "elapsed_ns": 103200000000, "rel_ms": 98200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000098300, "elapsed_ns": 103300000000, "rel_ms": 98300}, "type": "step", "counter": 12116, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000098400, "elapsed_ns": 103400000000, "rel_ms": 98400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000098400, "elapsed_ns": 103400000000, "rel_ms": 98400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000098600, "elapsed_ns": 103600000000, "rel_ms": 98600}, "type": "step", "counter": 12117, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000098600, "elapsed_ns": 103600000000, "rel_ms": 98600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000098800, "elapsed_ns": 103800000000, "rel_ms": 98800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000098800, "elapsed_ns": 103800000000, "rel_ms": 98800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000099000, "elapsed_ns": 104000000000, "rel_ms": 99000}, "type": "location", "lat": 30.000897, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000099000, "elapsed_ns": 104000000000, "rel_ms": 99000}, "type": "step", "counter": 12118, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000099000, "elapsed_ns": 104000000000, "rel_ms": 99000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000099200, "elapsed_ns": 104200000000, "rel_ms": 99200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000099200, "elapsed_ns": 104200000000, "rel_ms": 99200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000099300, "elapsed_ns": 104300000000, "rel_ms": 99300}, "type": "step", "counter": 12119, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000099400, "elapsed_ns": 104400000000, "rel_ms": 99400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000099600, "elapsed_ns": 104600000000, "rel_ms": 99600}, "type": "step", "counter": 12120, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000099600, "elapsed_ns": 104600000000, "rel_ms": 99600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000099600, "elapsed_ns": 104600000000, "rel_ms": 99600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000099800, "elapsed_ns": 104800000000, "rel_ms": 99800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000100000, "elapsed_ns": 105000000000, "rel_ms": 100000}, "type": "location", "lat": 30.00092, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000100000, "elapsed_ns": 105000000000, "rel_ms": 100000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000100000, "elapsed_ns": 105000000000, "rel_ms": 100000}, "type": "baro", "pressure_hpa": 1012.92, "altitude_m": 12.4}
+{"t": {"utc_ms": 1763000100000, "elapsed_ns": 105000000000, "rel_ms": 100000}, "type": "step", "counter": 12121, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000100000, "elapsed_ns": 105000000000, "rel_ms": 100000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000100000, "elapsed_ns": 105000000000, "rel_ms": 100000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000100200, "elapsed_ns": 105200000000, "rel_ms": 100200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000100300, "elapsed_ns": 105300000000, "rel_ms": 100300}, "type": "step", "counter": 12122, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000100400, "elapsed_ns": 105400000000, "rel_ms": 100400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000100400, "elapsed_ns": 105400000000, "rel_ms": 100400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000100600, "elapsed_ns": 105600000000, "rel_ms": 100600}, "type": "step", "counter": 12123, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000100600, "elapsed_ns": 105600000000, "rel_ms": 100600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000100800, "elapsed_ns": 105800000000, "rel_ms": 100800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000100800, "elapsed_ns": 105800000000, "rel_ms": 100800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000101000, "elapsed_ns": 106000000000, "rel_ms": 101000}, "type": "location", "lat": 30.000943, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000101000, "elapsed_ns": 106000000000, "rel_ms": 101000}, "type": "step", "counter": 12124, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000101000, "elapsed_ns": 106000000000, "rel_ms": 101000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000101200, "elapsed_ns": 106200000000, "rel_ms": 101200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000101200, "elapsed_ns": 106200000000, "rel_ms": 101200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000101300, "elapsed_ns": 106300000000, "rel_ms": 101300}, "type": "step", "counter": 12125, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000101400, "elapsed_ns": 106400000000, "rel_ms": 101400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000101600, "elapsed_ns": 106600000000, "rel_ms": 101600}, "type": "step", "counter": 12126, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000101600, "elapsed_ns": 106600000000, "rel_ms": 101600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000101600, "elapsed_ns": 106600000000, "rel_ms": 101600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000101800, "elapsed_ns": 106800000000, "rel_ms": 101800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000102000, "elapsed_ns": 107000000000, "rel_ms": 102000}, "type": "location", "lat": 30.000966, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000102000, "elapsed_ns": 107000000000, "rel_ms": 102000}, "type": "step", "counter": 12127, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000102000, "elapsed_ns": 107000000000, "rel_ms": 102000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000102000, "elapsed_ns": 107000000000, "rel_ms": 102000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000102200, "elapsed_ns": 107200000000, "rel_ms": 102200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000102300, "elapsed_ns": 107300000000, "rel_ms": 102300}, "type": "step", "counter": 12128, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000102400, "elapsed_ns": 107400000000, "rel_ms": 102400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000102400, "elapsed_ns": 107400000000, "rel_ms": 102400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000102600, "elapsed_ns": 107600000000, "rel_ms": 102600}, "type": "step", "counter": 12129, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000102600, "elapsed_ns": 107600000000, "rel_ms": 102600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000102800, "elapsed_ns": 107800000000, "rel_ms": 102800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000102800, "elapsed_ns": 107800000000, "rel_ms": 102800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000103000, "elapsed_ns": 108000000000, "rel_ms": 103000}, "type": "location", "lat": 30.000989, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000103000, "elapsed_ns": 108000000000, "rel_ms": 103000}, "type": "step", "counter": 12130, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000103000, "elapsed_ns": 108000000000, "rel_ms": 103000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000103200, "elapsed_ns": 108200000000, "rel_ms": 103200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000103200, "elapsed_ns": 108200000000, "rel_ms": 103200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000103300, "elapsed_ns": 108300000000, "rel_ms": 103300}, "type": "step", "counter": 12131, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000103400, "elapsed_ns": 108400000000, "rel_ms": 103400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000103600, "elapsed_ns": 108600000000, "rel_ms": 103600}, "type": "step", "counter": 12132, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000103600, "elapsed_ns": 108600000000, "rel_ms": 103600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000103600, "elapsed_ns": 108600000000, "rel_ms": 103600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000103800, "elapsed_ns": 108800000000, "rel_ms": 103800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000104000, "elapsed_ns": 109000000000, "rel_ms": 104000}, "type": "location", "lat": 30.001012, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000104000, "elapsed_ns": 109000000000, "rel_ms": 104000}, "type": "step", "counter": 12133, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000104000, "elapsed_ns": 109000000000, "rel_ms": 104000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000104000, "elapsed_ns": 109000000000, "rel_ms": 104000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000104200, "elapsed_ns": 109200000000, "rel_ms": 104200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000104300, "elapsed_ns": 109300000000, "rel_ms": 104300}, "type": "step", "counter": 12134, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000104400, "elapsed_ns": 109400000000, "rel_ms": 104400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000104400, "elapsed_ns": 109400000000, "rel_ms": 104400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000104600, "elapsed_ns": 109600000000, "rel_ms": 104600}, "type": "step", "counter": 12135, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000104600, "elapsed_ns": 109600000000, "rel_ms": 104600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000104800, "elapsed_ns": 109800000000, "rel_ms": 104800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000104800, "elapsed_ns": 109800000000, "rel_ms": 104800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000105000, "elapsed_ns": 110000000000, "rel_ms": 105000}, "type": "location", "lat": 30.001035, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000105000, "elapsed_ns": 110000000000, "rel_ms": 105000}, "type": "step", "counter": 12136, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000105000, "elapsed_ns": 110000000000, "rel_ms": 105000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000105200, "elapsed_ns": 110200000000, "rel_ms": 105200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000105200, "elapsed_ns": 110200000000, "rel_ms": 105200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000105300, "elapsed_ns": 110300000000, "rel_ms": 105300}, "type": "step", "counter": 12137, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000105400, "elapsed_ns": 110400000000, "rel_ms": 105400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000105600, "elapsed_ns": 110600000000, "rel_ms": 105600}, "type": "step", "counter": 12138, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000105600, "elapsed_ns": 110600000000, "rel_ms": 105600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000105600, "elapsed_ns": 110600000000, "rel_ms": 105600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000105800, "elapsed_ns": 110800000000, "rel_ms": 105800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000106000, "elapsed_ns": 111000000000, "rel_ms": 106000}, "type": "location", "lat": 30.001058, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000106000, "elapsed_ns": 111000000000, "rel_ms": 106000}, "type": "step", "counter": 12139, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000106000, "elapsed_ns": 111000000000, "rel_ms": 106000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000106000, "elapsed_ns": 111000000000, "rel_ms": 106000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000106200, "elapsed_ns": 111200000000, "rel_ms": 106200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000106300, "elapsed_ns": 111300000000, "rel_ms": 106300}, "type": "step", "counter": 12140, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000106400, "elapsed_ns": 111400000000, "rel_ms": 106400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000106400, "elapsed_ns": 111400000000, "rel_ms": 106400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000106600, "elapsed_ns": 111600000000, "rel_ms": 106600}, "type": "step", "counter": 12141, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000106600, "elapsed_ns": 111600000000, "rel_ms": 106600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000106800, "elapsed_ns": 111800000000, "rel_ms": 106800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000106800, "elapsed_ns": 111800000000, "rel_ms": 106800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000107000, "elapsed_ns": 112000000000, "rel_ms": 107000}, "type": "location", "lat": 30.001081, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000107000, "elapsed_ns": 112000000000, "rel_ms": 107000}, "type": "step", "counter": 12142, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000107000, "elapsed_ns": 112000000000, "rel_ms": 107000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000107200, "elapsed_ns": 112200000000, "rel_ms": 107200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000107200, "elapsed_ns": 112200000000, "rel_ms": 107200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000107300, "elapsed_ns": 112300000000, "rel_ms": 107300}, "type": "step", "counter": 12143, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000107400, "elapsed_ns": 112400000000, "rel_ms": 107400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000107600, "elapsed_ns": 112600000000, "rel_ms": 107600}, "type": "step", "counter": 12144, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000107600, "elapsed_ns": 112600000000, "rel_ms": 107600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000107600, "elapsed_ns": 112600000000, "rel_ms": 107600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000107800, "elapsed_ns": 112800000000, "rel_ms": 107800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000108000, "elapsed_ns": 113000000000, "rel_ms": 108000}, "type": "location", "lat": 30.001104, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000108000, "elapsed_ns": 113000000000, "rel_ms": 108000}, "type": "step", "counter": 12145, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000108000, "elapsed_ns": 113000000000, "rel_ms": 108000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000108000, "elapsed_ns": 113000000000, "rel_ms": 108000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000108200, "elapsed_ns": 113200000000, "rel_ms": 108200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000108300, "elapsed_ns": 113300000000, "rel_ms": 108300}, "type": "step", "counter": 12146, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000108400, "elapsed_ns": 113400000000, "rel_ms": 108400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000108400, "elapsed_ns": 113400000000, "rel_ms": 108400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000108600, "elapsed_ns": 113600000000, "rel_ms": 108600}, "type": "step", "counter": 12147, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000108600, "elapsed_ns": 113600000000, "rel_ms": 108600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000108800, "elapsed_ns": 113800000000, "rel_ms": 108800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000108800, "elapsed_ns": 113800000000, "rel_ms": 108800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000109000, "elapsed_ns": 114000000000, "rel_ms": 109000}, "type": "location", "lat": 30.001127, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000109000, "elapsed_ns": 114000000000, "rel_ms": 109000}, "type": "step", "counter": 12148, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000109000, "elapsed_ns": 114000000000, "rel_ms": 109000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000109200, "elapsed_ns": 114200000000, "rel_ms": 109200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000109200, "elapsed_ns": 114200000000, "rel_ms": 109200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000109300, "elapsed_ns": 114300000000, "rel_ms": 109300}, "type": "step", "counter": 12149, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000109400, "elapsed_ns": 114400000000, "rel_ms": 109400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000109600, "elapsed_ns": 114600000000, "rel_ms": 109600}, "type": "step", "counter": 12150, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000109600, "elapsed_ns": 114600000000, "rel_ms": 109600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000109600, "elapsed_ns": 114600000000, "rel_ms": 109600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000109800, "elapsed_ns": 114800000000, "rel_ms": 109800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000110000, "elapsed_ns": 115000000000, "rel_ms": 110000}, "type": "location", "lat": 30.00115, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000110000, "elapsed_ns": 115000000000, "rel_ms": 110000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000110000, "elapsed_ns": 115000000000, "rel_ms": 110000}, "type": "baro", "pressure_hpa": 1012.9, "altitude_m": 12.5}
+{"t": {"utc_ms": 1763000110000, "elapsed_ns": 115000000000, "rel_ms": 110000}, "type": "step", "counter": 12151, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000110000, "elapsed_ns": 115000000000, "rel_ms": 110000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000110000, "elapsed_ns": 115000000000, "rel_ms": 110000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000110200, "elapsed_ns": 115200000000, "rel_ms": 110200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000110300, "elapsed_ns": 115300000000, "rel_ms": 110300}, "type": "step", "counter": 12152, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000110400, "elapsed_ns": 115400000000, "rel_ms": 110400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000110400, "elapsed_ns": 115400000000, "rel_ms": 110400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000110600, "elapsed_ns": 115600000000, "rel_ms": 110600}, "type": "step", "counter": 12153, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000110600, "elapsed_ns": 115600000000, "rel_ms": 110600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000110800, "elapsed_ns": 115800000000, "rel_ms": 110800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000110800, "elapsed_ns": 115800000000, "rel_ms": 110800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000111000, "elapsed_ns": 116000000000, "rel_ms": 111000}, "type": "location", "lat": 30.001173, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000111000, "elapsed_ns": 116000000000, "rel_ms": 111000}, "type": "step", "counter": 12154, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000111000, "elapsed_ns": 116000000000, "rel_ms": 111000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000111200, "elapsed_ns": 116200000000, "rel_ms": 111200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000111200, "elapsed_ns": 116200000000, "rel_ms": 111200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000111300, "elapsed_ns": 116300000000, "rel_ms": 111300}, "type": "step", "counter": 12155, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000111400, "elapsed_ns": 116400000000, "rel_ms": 111400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000111600, "elapsed_ns": 116600000000, "rel_ms": 111600}, "type": "step", "counter": 12156, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000111600, "elapsed_ns": 116600000000, "rel_ms": 111600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000111600, "elapsed_ns": 116600000000, "rel_ms": 111600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000111800, "elapsed_ns": 116800000000, "rel_ms": 111800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000112000, "elapsed_ns": 117000000000, "rel_ms": 112000}, "type": "location", "lat": 30.001196, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000112000, "elapsed_ns": 117000000000, "rel_ms": 112000}, "type": "step", "counter": 12157, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000112000, "elapsed_ns": 117000000000, "rel_ms": 112000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000112000, "elapsed_ns": 117000000000, "rel_ms": 112000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000112200, "elapsed_ns": 117200000000, "rel_ms": 112200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000112300, "elapsed_ns": 117300000000, "rel_ms": 112300}, "type": "step", "counter": 12158, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000112400, "elapsed_ns": 117400000000, "rel_ms": 112400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000112400, "elapsed_ns": 117400000000, "rel_ms": 112400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000112600, "elapsed_ns": 117600000000, "rel_ms": 112600}, "type": "step", "counter": 12159, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000112600, "elapsed_ns": 117600000000, "rel_ms": 112600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000112800, "elapsed_ns": 117800000000, "rel_ms": 112800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000112800, "elapsed_ns": 117800000000, "rel_ms": 112800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000113000, "elapsed_ns": 118000000000, "rel_ms": 113000}, "type": "location", "lat": 30.001219, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000113000, "elapsed_ns": 118000000000, "rel_ms": 113000}, "type": "step", "counter": 12160, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000113000, "elapsed_ns": 118000000000, "rel_ms": 113000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000113200, "elapsed_ns": 118200000000, "rel_ms": 113200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000113200, "elapsed_ns": 118200000000, "rel_ms": 113200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000113300, "elapsed_ns": 118300000000, "rel_ms": 113300}, "type": "step", "counter": 12161, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000113400, "elapsed_ns": 118400000000, "rel_ms": 113400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000113600, "elapsed_ns": 118600000000, "rel_ms": 113600}, "type": "step", "counter": 12162, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000113600, "elapsed_ns": 118600000000, "rel_ms": 113600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000113600, "elapsed_ns": 118600000000, "rel_ms": 113600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000113800, "elapsed_ns": 118800000000, "rel_ms": 113800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000114000, "elapsed_ns": 119000000000, "rel_ms": 114000}, "type": "location", "lat": 30.001242, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000114000, "elapsed_ns": 119000000000, "rel_ms": 114000}, "type": "step", "counter": 12163, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000114000, "elapsed_ns": 119000000000, "rel_ms": 114000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000114000, "elapsed_ns": 119000000000, "rel_ms": 114000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000114200, "elapsed_ns": 119200000000, "rel_ms": 114200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000114300, "elapsed_ns": 119300000000, "rel_ms": 114300}, "type": "step", "counter": 12164, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000114400, "elapsed_ns": 119400000000, "rel_ms": 114400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000114400, "elapsed_ns": 119400000000, "rel_ms": 114400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000114600, "elapsed_ns": 119600000000, "rel_ms": 114600}, "type": "step", "counter": 12165, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000114600, "elapsed_ns": 119600000000, "rel_ms": 114600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000114800, "elapsed_ns": 119800000000, "rel_ms": 114800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000114800, "elapsed_ns": 119800000000, "rel_ms": 114800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000115000, "elapsed_ns": 120000000000, "rel_ms": 115000}, "type": "location", "lat": 30.001265, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000115000, "elapsed_ns": 120000000000, "rel_ms": 115000}, "type": "step", "counter": 12166, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000115000, "elapsed_ns": 120000000000, "rel_ms": 115000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000115200, "elapsed_ns": 120200000000, "rel_ms": 115200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000115200, "elapsed_ns": 120200000000, "rel_ms": 115200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000115300, "elapsed_ns": 120300000000, "rel_ms": 115300}, "type": "step", "counter": 12167, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000115400, "elapsed_ns": 120400000000, "rel_ms": 115400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000115600, "elapsed_ns": 120600000000, "rel_ms": 115600}, "type": "step", "counter": 12168, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000115600, "elapsed_ns": 120600000000, "rel_ms": 115600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000115600, "elapsed_ns": 120600000000, "rel_ms": 115600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000115800, "elapsed_ns": 120800000000, "rel_ms": 115800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000116000, "elapsed_ns": 121000000000, "rel_ms": 116000}, "type": "location", "lat": 30.001288, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000116000, "elapsed_ns": 121000000000, "rel_ms": 116000}, "type": "step", "counter": 12169, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000116000, "elapsed_ns": 121000000000, "rel_ms": 116000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000116000, "elapsed_ns": 121000000000, "rel_ms": 116000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000116200, "elapsed_ns": 121200000000, "rel_ms": 116200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000116300, "elapsed_ns": 121300000000, "rel_ms": 116300}, "type": "step", "counter": 12170, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000116400, "elapsed_ns": 121400000000, "rel_ms": 116400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000116400, "elapsed_ns": 121400000000, "rel_ms": 116400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000116600, "elapsed_ns": 121600000000, "rel_ms": 116600}, "type": "step", "counter": 12171, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000116600, "elapsed_ns": 121600000000, "rel_ms": 116600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000116800, "elapsed_ns": 121800000000, "rel_ms": 116800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000116800, "elapsed_ns": 121800000000, "rel_ms": 116800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000117000, "elapsed_ns": 122000000000, "rel_ms": 117000}, "type": "location", "lat": 30.001311, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000117000, "elapsed_ns": 122000000000, "rel_ms": 117000}, "type": "step", "counter": 12172, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000117000, "elapsed_ns": 122000000000, "rel_ms": 117000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000117200, "elapsed_ns": 122200000000, "rel_ms": 117200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000117200, "elapsed_ns": 122200000000, "rel_ms": 117200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000117300, "elapsed_ns": 122300000000, "rel_ms": 117300}, "type": "step", "counter": 12173, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000117400, "elapsed_ns": 122400000000, "rel_ms": 117400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000117600, "elapsed_ns": 122600000000, "rel_ms": 117600}, "type": "step", "counter": 12174, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000117600, "elapsed_ns": 122600000000, "rel_ms": 117600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000117600, "elapsed_ns": 122600000000, "rel_ms": 117600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000117800, "elapsed_ns": 122800000000, "rel_ms": 117800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000118000, "elapsed_ns": 123000000000, "rel_ms": 118000}, "type": "location", "lat": 30.001334, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000118000, "elapsed_ns": 123000000000, "rel_ms": 118000}, "type": "step", "counter": 12175, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000118000, "elapsed_ns": 123000000000, "rel_ms": 118000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000118000, "elapsed_ns": 123000000000, "rel_ms": 118000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000118200, "elapsed_ns": 123200000000, "rel_ms": 118200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000118300, "elapsed_ns": 123300000000, "rel_ms": 118300}, "type": "step", "counter": 12176, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000118400, "elapsed_ns": 123400000000, "rel_ms": 118400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000118400, "elapsed_ns": 123400000000, "rel_ms": 118400}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.06], "accuracy": 3}
+{"t": {"utc_ms": 1763000118600, "elapsed_ns": 123600000000, "rel_ms": 118600}, "type": "step", "counter": 12177, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000118600, "elapsed_ns": 123600000000, "rel_ms": 118600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000118800, "elapsed_ns": 123800000000, "rel_ms": 118800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000118800, "elapsed_ns": 123800000000, "rel_ms": 118800}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.12], "accuracy": 3}
+{"t": {"utc_ms": 1763000119000, "elapsed_ns": 124000000000, "rel_ms": 119000}, "type": "location", "lat": 30.001357, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000119000, "elapsed_ns": 124000000000, "rel_ms": 119000}, "type": "step", "counter": 12178, "delta": 1, "detector": true}
+{"t": {"utc_ms": 1763000119000, "elapsed_ns": 124000000000, "rel_ms": 119000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000119200, "elapsed_ns": 124200000000, "rel_ms": 119200}, "type": "imu", "sensor": "accelerometer", "values": [0.68, 9.5, 0.26], "accuracy": 3}
+{"t": {"utc_ms": 1763000119200, "elapsed_ns": 124200000000, "rel_ms": 119200}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.03], "accuracy": 3}
+{"t": {"utc_ms": 1763000119300, "elapsed_ns": 124300000000, "rel_ms": 119300}, "type": "step", "counter": 12179, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000119400, "elapsed_ns": 124400000000, "rel_ms": 119400}, "type": "imu", "sensor": "accelerometer", "values": [0.76, 9.5, 0.22], "accuracy": 3}
+{"t": {"utc_ms": 1763000119600, "elapsed_ns": 124600000000, "rel_ms": 119600}, "type": "step", "counter": 12180, "delta": 1, "detector": false}
+{"t": {"utc_ms": 1763000119600, "elapsed_ns": 124600000000, "rel_ms": 119600}, "type": "imu", "sensor": "accelerometer", "values": [0.84, 9.5, 0.18], "accuracy": 3}
+{"t": {"utc_ms": 1763000119600, "elapsed_ns": 124600000000, "rel_ms": 119600}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.09], "accuracy": 3}
+{"t": {"utc_ms": 1763000119800, "elapsed_ns": 124800000000, "rel_ms": 119800}, "type": "imu", "sensor": "accelerometer", "values": [0.92, 9.5, 0.14], "accuracy": 3}
+{"t": {"utc_ms": 1763000120000, "elapsed_ns": 125000000000, "rel_ms": 120000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 2.56, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000120000, "elapsed_ns": 125000000000, "rel_ms": 120000}, "type": "activity", "activity": "running", "confidence": 90}
+{"t": {"utc_ms": 1763000120000, "elapsed_ns": 125000000000, "rel_ms": 120000}, "type": "baro", "pressure_hpa": 1012.88, "altitude_m": 12.6}
+{"t": {"utc_ms": 1763000120000, "elapsed_ns": 125000000000, "rel_ms": 120000}, "type": "imu", "sensor": "accelerometer", "values": [0.6, 9.5, 0.3], "accuracy": 3}
+{"t": {"utc_ms": 1763000120000, "elapsed_ns": 125000000000, "rel_ms": 120000}, "type": "imu", "sensor": "gyroscope", "values": [0.02, 0.01, 0.0], "accuracy": 3}
+{"t": {"utc_ms": 1763000120000, "elapsed_ns": 125000000000, "rel_ms": 120000}, "type": "marker", "name": "run_end", "note": ""}
+{"t": {"utc_ms": 1763000121000, "elapsed_ns": 126000000000, "rel_ms": 121000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000122000, "elapsed_ns": 127000000000, "rel_ms": 122000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000123000, "elapsed_ns": 128000000000, "rel_ms": 123000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000124000, "elapsed_ns": 129000000000, "rel_ms": 124000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000125000, "elapsed_ns": 130000000000, "rel_ms": 125000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000126000, "elapsed_ns": 131000000000, "rel_ms": 126000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000127000, "elapsed_ns": 132000000000, "rel_ms": 127000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000128000, "elapsed_ns": 133000000000, "rel_ms": 128000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000129000, "elapsed_ns": 134000000000, "rel_ms": 129000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000130000, "elapsed_ns": 135000000000, "rel_ms": 130000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000131000, "elapsed_ns": 136000000000, "rel_ms": 131000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000132000, "elapsed_ns": 137000000000, "rel_ms": 132000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000133000, "elapsed_ns": 138000000000, "rel_ms": 133000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000134000, "elapsed_ns": 139000000000, "rel_ms": 134000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000135000, "elapsed_ns": 140000000000, "rel_ms": 135000}, "type": "location", "lat": 30.00138, "lon": 120.0, "alt": 12.0, "acc_h": 4.0, "acc_v": 6.0, "speed": 0.0, "bearing": 0.0, "provider": "gps", "satellites": 12, "snr_avg": 35.0, "hdop": 0.9, "is_mock": false}
+{"t": {"utc_ms": 1763000135000, "elapsed_ns": 140000000000, "rel_ms": 135000}, "type": "device", "battery_pct": 86, "charging": false, "screen_on": true, "network": "wifi"}
+{"t": {"utc_ms": 1763000135000, "elapsed_ns": 140000000000, "rel_ms": 135000}, "type": "marker", "name": "record_end", "note": ""}

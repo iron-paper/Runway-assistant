@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "session_id": "20251113-005320-demo01",
+  "created_at": "2025-11-13T00:53:20Z",
+  "device": {
+    "manufacturer": "Demo",
+    "model": "Sample",
+    "sdk": 33,
+    "rom": "demo-build"
+  },
+  "app": {
+    "version": "1.0.0-alpha",
+    "build": "demo"
+  },
+  "recording": {
+    "started_at": "2025-11-13T00:53:20Z",
+    "ended_at": "2025-11-13T00:55:35Z",
+    "duration_ms": 135000,
+    "distance_m": 153.6
+  },
+  "counts": {
+    "marker": 4,
+    "activity": 8,
+    "location": 136,
+    "baro": 12,
+    "device": 7,
+    "step": 181,
+    "imu": 452
+  },
+  "environment": {
+    "weather": "clear",
+    "surface": "track",
+    "wear_position": "hand",
+    "satellite_note": "demo data"
+  },
+  "usage": {
+    "max_uses": 3,
+    "used_count": 0,
+    "last_used_at": ""
+  }
+}
